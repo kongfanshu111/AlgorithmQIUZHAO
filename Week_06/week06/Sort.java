@@ -1,8 +1,13 @@
-## 学习笔记
+package week06;
 
-### 常见各种排序算法
+import java.util.Arrays;
 
-```java
+/**
+ * @Param: sort
+ * @Author: fanshu.kong
+ * @Date: 2020.08.21
+ */
+
 public class Sort {
 
     // 冒泡排序，每次找最大值，通过相邻的两个比较
@@ -140,5 +145,3 @@ public class Sort {
         System.out.println(Arrays.toString(num));
     }
 }
-```
-
